@@ -1,15 +1,31 @@
 # Engineering Workflow Notes
 
-Collection of engineering observations, workflow experiments, and practical notes related to:
+Collection of operational engineering observations, workflow patterns, debugging friction points, and backend investigation notes gathered through practical engineering experience.
 
-- Backend performance
-- Debugging workflows
-- Developer productivity
-- CI/CD processes
-- Operational simplicity
-- Engineering maintainability
-- AI-assisted engineering workflows
+## Topics
+
+Potential areas covered:
+
+* Backend operational bottlenecks
+* Deployment workflow reliability
+* Debugging and observability gaps
+* CI/CD friction patterns
+* Cache effectiveness considerations
+* Database pressure analysis
+* Engineering productivity bottlenecks
+* Investigation workflow improvements
 
 ## Purpose
 
-This repository is intended to capture structured engineering observations and practical workflow ideas that improve clarity, maintainability, and operational efficiency in software systems.
+This repository is intended as a lightweight collection of practical engineering notes focused on:
+
+* operational clarity
+* maintainability
+* investigation-oriented thinking
+* low-risk system improvements
+
+The focus is intentionally practical rather than theoretical.
+
+## Status
+
+Work in progress.
